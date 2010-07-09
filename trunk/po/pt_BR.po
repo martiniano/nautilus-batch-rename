@@ -1,0 +1,77 @@
+# Brazilian Portuguese translation of nautilus-batch-rename.
+# This file is distributed under the same license as the nautilus-batch-rename package.
+# Anderson Martiniano <andersonmartiniano@gmail.com>, 2010.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-batch-rename\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-03 17:12+0200\n"
+"PO-Revision-Date: 2010-06-03 17:12-0400\n"
+"Last-Translator: Anderson Martiniano <andersonmartiniano@gmail.com>\n"
+"Language-Team: Brasilian Portuguese <pt_BR@pt.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+
+#: ../src/nautilus-module.c:99
+msgid "_Rename Files..."
+msgstr "_Renomear Arquivos..."
+
+#: ../src/nautilus-image-converter.c:100
+msgid "Rename each selected file"
+msgstr "Renomeia cada arquivo selecionado"
+
+#: ../src/nautilus-batch-rename.c:251
+msgid "Please enter a valid filename suffix!"
+msgstr "Insira um prefixo válido"
+
+#: ../src/nautilus-batch-rename.c:261
+msgid "Please enter a valid start string!"
+msgstr "Insira um inicio válido!"
+
+#: ../src/nautilus-batch-rename.c:271
+msgid "Please, the filename must have a mask `#`"
+msgstr "Insira um inicio válido!"
+
+#: ../src/nautilus-batch-rename.c:294
+msgid "Please, the start must have a integer number"
+msgstr "Insira um inicio válido!"
+
+#: ../src/nautilus-batch-rename.c:315
+msgid "Please, the start must have only an alphabetic (i.e: a,b,c....)"
+msgstr "Insira um inicio válido!"
+
+#: ../src/nautilus-batch-rename..glade.h:1
+msgid "<b>Rename Files</b>"
+msgstr "<b>Renomear Arquivos</b>"
+
+#: ../src/nautilus-batch-rename..glade.h:2
+msgid "Order:"
+msgstr "Ordem:"
+
+#: ../src/nautilus-batch-rename..glade.h:3
+msgid "Numerical\nAlphabetical"
+msgstr "Numérica\nAlfabética"
+
+#: ../src/nautilus-batch-rename..glade.h:4
+msgid "New Filename:"
+msgstr "Novo nome:"
+
+#: ../src/nautilus-batch-rename..glade.h:5
+msgid "Start in:"
+msgstr "Iniciar em:"
+
+#: ../src/nautilus-batch-rename..glade.h:6
+msgid "Increment:"
+msgstr "Incremento:"
+
+#: ../src/nautilus-batch-rename..glade.h:7
+msgid "_Rename"
+msgstr "_Renomear"
+
+
