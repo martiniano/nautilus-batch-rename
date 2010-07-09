@@ -1,0 +1,5 @@
+[encoding: UTF-8]
+# List of source files which contain translatable strings.
+src/nautilus-module.c
+src/nautilus-batch-rename.c
+src/nautilus-batch-rename.glade
